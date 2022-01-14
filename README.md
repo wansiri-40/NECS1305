@@ -1,15 +1,24 @@
-# NECS1305
-<h2>Java Script</h2>
-โปรเจคเว็บแอพฯ จัดทำโดย วรรณศิริ ทองประเสริฐ
-Features
+## NECS1305
+## Javascript Alert App
+>โปรเจคเว็บแอพฯ จัดทำโดย วรรณศิริ ทองประเสริฐ
+
+**Features**
 + List 1
 + List 2
 + List 3
-Example code
+
+**Example code**
+
+```
 <javasctipt>
     alert('ok');
 </javasctipt>
-Credit
+```
+
+**Credit**
+
 6314120005@mutacth.com
-License
+
+**License**
+
 MIT License
